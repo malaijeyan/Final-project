@@ -1,0 +1,156 @@
+.app{
+  background-color:lightslategray;
+  padding: 25px;
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  font-size: large;
+  font-family:cursive;
+  font-style: italic;
+  height: 1000px;
+}
+.link{
+  text-decoration:rgb(4, 90, 79);
+}
+ul{
+  display:flex;
+}
+li{
+  list-style: none;
+  padding: 10px;
+  margin: 10px;
+  align-items: center;
+}
+li:hover{
+  background-color:paleturquoise;
+}
+.product{
+  display: block;
+  
+}
+.name{
+  display: flex;
+  flex-direction: row;
+  font-size: larger;
+}
+.price{
+  display:flex;
+  flex-direction: row;
+}
+.qty{
+  display: flex;
+  flex-direction: row;
+}
+.amt{
+  display: flex;
+  flex-direction: row;
+}
+.add{
+  padding: 4px;
+  margin: 2px;
+  align-items: center;
+}
+.sub{
+  padding: 4px;
+  margin: 2px;
+  align-items: center;
+}
+.crt{
+  font-size: medium;
+  font-style:italic;
+  background-color:burlywood;
+  height:1000px;
+  width: 1000px;
+  text-align: center;
+  /* display: flex; */
+  flex-direction: row;
+  box-shadow:inset ;
+}
+.cartItems{
+  margin: 20px;
+  align-items: center;
+}
+.odr{
+  background-color:lightblue;
+  height: 1000px;
+  width: 1000px;
+  text-align: center;
+}
+/* .pdt{
+  display: block;
+} */
+
+
+/* .app{
+  background-color:lightsteelblue;
+  padding: 30px;
+  text-align: center;
+  font-size: 20px;
+  font-family: cursive;
+  flex-direction: column;
+  display:flexbox;
+} */
+/* .link{
+ text-decoration:solid;
+} */
+
+/* .active{
+  color:darkcyan;
+} */
+
+/* .line{
+  display: flex;
+} */
+
+/* .home{
+background: 100vh;
+
+height: 1000px;;
+} */
+
+/* .task{
+  display:flex;
+  flex-direction: column;
+} */
+
+/* .name{
+  display: flex;
+  flex-direction:column;
+  font-size:larger;
+  font-weight:bold;
+  font-family:monospace;
+} */
+/* .price{
+  display:inline-block;
+  flex-direction:row;
+  float:left;
+  
+} */
+/* .qty{
+  display:block;
+  float:left;
+  flex-direction:row;
+} */
+/* .Amt{
+  display:flexbox;
+  float:left;
+  flex-direction:row-reverse;
+} */
+/* .sub{
+padding: 4px;
+} */
+
+/* .add{
+  padding: 4px;
+  } */
+  /* .cartList{
+    display:contents;
+    background-color: dimgrey;
+    height: fit-content;
+  } */
+  /* .nav{
+    display:flex;
+  } */
+  /* .odr{
+    background-color:azure;
+  } */
